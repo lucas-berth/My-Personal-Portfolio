@@ -11,4 +11,4 @@ public class RollingDice
     }
 }
 
-//this is a dice roller
+//this is a dice roller and it has a random number generated implemented 
