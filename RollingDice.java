@@ -10,3 +10,5 @@ public class RollingDice
         System.out.println("You rolled a:" + a );
     }
 }
+
+//this is a dice roller
