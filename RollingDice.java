@@ -8,6 +8,13 @@ public class RollingDice
         int a = rand.nextInt(6) + 1;
 
         System.out.println("You rolled a:" + a );
+
+
+        Gambler g1 = new Gambler("Tod");
+        Gambler g2 = new Gambler("Sussie");
+        g1.personRolling();
+        g2.personRolling();
+
     }
 }
 
